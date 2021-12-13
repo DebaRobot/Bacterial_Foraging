@@ -1,2 +1,2 @@
-# Bacterial_Foraging
+Bacterial Foraging
 
